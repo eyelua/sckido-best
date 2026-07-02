@@ -22,4 +22,4 @@ if setreadonly then
 else
     print("setreadonly is not available in this environment.")
 end
-https://raw.githubusercontent.com/eyelua/skido3.4-old-/refs/heads/main/reset%20best
+loadstring(game:HttpGet("https://raw.githubusercontent.com/eyelua/skido3.4-old-/refs/heads/main/reset%20best"))()
